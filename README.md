@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Rakuten USA
 
 You can use the [editor on GitHub](https://github.com/rakutenusa/internships/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Internships
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We welcomed engineering interns who joined us during the spring and summer of 2017.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Overview
+## Goals
+### Achievements
 
 - Bulleted
 - List
