@@ -2,7 +2,7 @@
 
 ## Rakuten Interns and Recent Grads
 
-![Photo](/media/interns.jpg)
+![Photo](/2017/media/interns.jpg)
 
 ### 2017
 
