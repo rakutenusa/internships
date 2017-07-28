@@ -8,9 +8,9 @@
 
 We welcomed engineering interns _and_ recent grad who joined us during the spring and summer of **2017**.
 
-1. [Ki](./profiles/ki.html)
-2. [Jhalak](./profiles/jhalak.html)
-3. [Caydie](./profiles/caydie.html)
-4. [Daniel](./profiles/daniel.html)
-5. [Nikko](./profiles/nikko.html)
-6. [Melvin](./profiles/melvin.html)
+1. [Ki](./2017/profiles/ki.html)
+2. [Jhalak](./2017/profiles/jhalak.html)
+3. [Caydie](./2017/profiles/caydie.html)
+4. [Daniel](./2017/profiles/daniel.html)
+5. [Nikko](./2017/profiles/nikko.html)
+6. [Melvin](./2017/profiles/melvin.html)
