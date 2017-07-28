@@ -10,7 +10,7 @@ We welcomed engineering interns _and_ recent grad who joined us during the sprin
 
 1. [Ki](./profiles/ki.html)
 2. [Jhalak](./profiles/jhalak.html)
-3. [Caydie](./profiles/Caydie.html)
-4. [Daniel](./profiles/Daniel.html)
-5. [Nikko](./profiles/Nikko.html)
-6. [Melvin](./profiles/Melvin.html)
+3. [Caydie](./profiles/caydie.html)
+4. [Daniel](./profiles/daniel.html)
+5. [Nikko](./profiles/nikko.html)
+6. [Melvin](./profiles/melvin.html)
